@@ -1,0 +1,20 @@
+{
+    "name": "t2i-studio-skill",
+    "version": "1.0.0",
+    "description": "Z-Image Studio Agent Skill - Generate AI images from your CLI or Agent",
+    "main": "index.js",
+    "bin": {
+        "t2i": "./bin/t2i.js"
+    },
+    "scripts": {
+        "test": "python3 ../test_client.py"
+    },
+    "keywords": [
+        "t2i",
+        "stable-diffusion",
+        "image-generation",
+        "agent-skill"
+    ],
+    "author": "Yanlai wu",
+    "license": "MIT"
+}
