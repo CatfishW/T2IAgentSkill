@@ -17,11 +17,10 @@ Experience the future of AI image generation. **T2I Studio Premium** brings high
 
 ## 🚀 Installation
 
-Install globally using the secured package URL:
+Install globally using the GitHub repository:
 
 ```bash
-# Password required: Tang123
-npm install -g https://t2i:Tang123@mc.agaii.org/T2ISkill/t2i-studio-skill-1.0.0.tgz
+npm install -g CatfishW/T2IAgentSkill
 ```
 
 ## 📖 Usage
